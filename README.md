@@ -1,1 +1,1 @@
-<h1>Prisma</h1>
+<h1>Prisma database</h1>
