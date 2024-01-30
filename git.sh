@@ -3,7 +3,7 @@ do
     sleep 1
     echo "a" >> README.md
     git add .
-    git commit -m "a"
+    git commit -m "$i - commit"
     git push origin master
     echo "$i - commit"
 done
