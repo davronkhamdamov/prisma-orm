@@ -1,7 +1,7 @@
-for i in {1..5};
+for i in {1..10};
 do 
     sleep 1
-    echo README.md >> "a"
+    echo "a" >> README.md
     git add .
     git commit -m "a"
     git push origin master
